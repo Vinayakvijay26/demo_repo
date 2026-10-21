@@ -1,1 +1,3 @@
+#Welcome message!
+
 print "Hello emc students"
